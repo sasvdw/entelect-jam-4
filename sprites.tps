@@ -199,9 +199,13 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
+            <key type="filename">david/jerry-can.png</key>
+            <key type="filename">david/oil-slick.png</key>
+            <key type="filename">david/truck.png</key>
             <key type="filename">dewald/flowers_1.png</key>
             <key type="filename">dewald/grass_v1.png</key>
             <key type="filename">dewald/grass_v2.png</key>
+            <key type="filename">dewald/grass_v3.png</key>
             <key type="filename">dewald/plain_tar_v1.png</key>
             <key type="filename">dewald/road_line_both_v1.png</key>
             <key type="filename">dewald/road_line_left_v1.png</key>
@@ -253,6 +257,7 @@
         <array>
             <filename>dewald</filename>
             <filename>matt</filename>
+            <filename>david</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
