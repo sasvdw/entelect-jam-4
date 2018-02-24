@@ -199,9 +199,11 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
+            <key type="filename">david/fuel-station-ui.png</key>
             <key type="filename">david/jerry-can.png</key>
             <key type="filename">david/oil-slick.png</key>
             <key type="filename">david/truck.png</key>
+            <key type="filename">david/tyre-stack.png</key>
             <key type="filename">dewald/flowers_1.png</key>
             <key type="filename">dewald/grass_v1.png</key>
             <key type="filename">dewald/grass_v2.png</key>
@@ -213,6 +215,8 @@
             <key type="filename">dewald/road_thin_line_right_v1.png</key>
             <key type="filename">dewald/shrubs_v1.png</key>
             <key type="filename">dewald/tree_v1.png</key>
+            <key type="filename">matt/pedestrian.png</key>
+            <key type="filename">matt/sidewalk.png</key>
             <key type="filename">matt/tesla-red.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>

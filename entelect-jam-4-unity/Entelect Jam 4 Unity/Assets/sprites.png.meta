@@ -25,6 +25,7 @@ TextureImporter:
     21300036: fuel-station-ui
     21300038: tyre-stack
     21300040: sidewalk
+    21300042: pedestrian
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -204,6 +205,20 @@ TextureImporter:
         height: 31
       alignment: 9
       pivot: {x: 0.5, y: 0.516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pedestrian
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 83
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.9230769, y: 0.7692308}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
